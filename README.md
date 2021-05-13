@@ -2,7 +2,7 @@
 # 
 # 4x 150mm Profile
 # 4x 300mm Profile
-# 4x 500m Profile
+# 4x 500mm Profile
 #
 # 8x 2020
 # 1x Mobo Set
@@ -13,7 +13,7 @@
 #
 # 4x 150mm Profile
 # 4x 300mm Profile
-# 5x 500m Profile
+# 5x 500mm Profile
 #
 # 8x 2020
 # 2x 90
