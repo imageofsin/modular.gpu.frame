@@ -1,36 +1,35 @@
-<b>Base Rig:</b>
+<p><b>Base Rig:</b></p>
 
-4x 150mm Profile
-4x 300mm Profile
-4x 500mm Profile
+<p>4x 150mm Profile<br>
+4x 300mm Profile<br>
+4x 500mm Profile<br></p>
 
-8x 2020
-1x Mobo Set
-1x Psu Set
-14x T Slot
+<p>8x 2020<br>
+1x Mobo Set<br>
+1x Psu Set<br>
+14x T Slot<br></p>
+
+<p><b>Gpu Rig:</b></p>
+
+<p>4x 150mm Profile<br>
+4x 300mm Profile<br>
+5x 500mm Profile<br></p>
+
+<p>8x 2020<br>
+2x 90<br>
+6x Raiser rails<br>
+6x Gpu rail<br>
+20x T Slot<br></p>
 
 
-<b>Gpu Rig:</b>
+<p><b>2Gpu Rig:</b></p>
 
-4x 150mm Profile
-4x 300mm Profile
-5x 500mm Profile
+<p>4x 150mm Profile<br>
+4x 400mm Profile<br>
+5x 300mm Profile<br></p>
 
-8x 2020
-2x 90
-6x Raiser rails
-6x Gpu rail
-20x T Slot
-
-
-<b>2Gpu Rig:</b>
-
-4x 150mm Profile
-4x 400mm Profile
-5x 300mm Profile
-
-8x 2020
-2x 90
-2x Raiser rails
-2x Gpu rail
-20x T Slot
+<p>8x 2020<br>
+2x 90<br>
+2x Raiser rail<br>
+2x Gpu rail<br>
+20x T Slot<br></p>
