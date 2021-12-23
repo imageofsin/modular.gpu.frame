@@ -9,7 +9,7 @@
 1x Psu Set<br>
 14x T Slot<br></p>
 
-<p>![IMG_7303](https://user-images.githubusercontent.com/54800529/147291721-1c2021c3-6f74-4604-979c-e02bdade9ae1.JPG)<br></p>
+<p>!(https://user-images.githubusercontent.com/54800529/147291721-1c2021c3-6f74-4604-979c-e02bdade9ae1.JPG)<br></p>
 
 <p><b>6Gpu Frame:</b></p>
 
@@ -23,7 +23,7 @@
 6x Gpu rail<br>
 20x T Slot<br></p>
 
-<p>![IMG_7304](https://user-images.githubusercontent.com/54800529/147291774-c3dfc765-714d-4be7-abc7-0eb9d35a18b6.JPG)<br></p>
+<p>!(https://user-images.githubusercontent.com/54800529/147291774-c3dfc765-714d-4be7-abc7-0eb9d35a18b6.JPG)<br></p>
 
 
 <p><b>2Gpu Frame:</b></p>
