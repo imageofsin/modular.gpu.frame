@@ -40,3 +40,4 @@
 
 
 <p><b>1x Cpu Frame + 2x 6Gpu Frame:</b></p>
+<p><img src="https://user-images.githubusercontent.com/54800529/147292512-50771d1d-1740-467a-aabc-2245c6feec27.png"><br></p>
