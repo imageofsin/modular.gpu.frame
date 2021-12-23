@@ -1,4 +1,4 @@
-<p><b>Base (CPU) Rig:</b></p>
+<p><b>Base (CPU) Frame:</b></p>
 
 <p>4x 150mm Profile<br>
 4x 300mm Profile<br>
@@ -9,7 +9,7 @@
 1x Psu Set<br>
 14x T Slot<br></p>
 
-<p><b>6Gpu Rig:</b></p>
+<p><b>6Gpu Frame:</b></p>
 
 <p>4x 150mm Profile<br>
 4x 300mm Profile<br>
@@ -22,7 +22,7 @@
 20x T Slot<br></p>
 
 
-<p><b>2Gpu Rig:</b></p>
+<p><b>2Gpu Frame:</b></p>
 
 <p>4x 150mm Profile<br>
 4x 400mm Profile<br>
