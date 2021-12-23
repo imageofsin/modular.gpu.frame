@@ -37,3 +37,6 @@
 2x Raiser rail<br>
 2x Gpu rail<br>
 20x T Slot<br></p>
+
+
+<p><b>1x Cpu Frame + 2x 6Gpu Frame:</b></p>
